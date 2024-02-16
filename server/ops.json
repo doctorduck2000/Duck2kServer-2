@@ -4,5 +4,11 @@
     "name": "doctorduck2000",
     "level": 4,
     "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "6dddcbe2-1d7d-3131-8938-750c72fecdec",
+    "name": "IMNOTCOOL",
+    "level": 2,
+    "bypassesPlayerLimit": false
   }
 ]
